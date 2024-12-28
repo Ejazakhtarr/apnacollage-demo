@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is first git repository
+This is my  first git repository
+Author - Ejaz Akhtar
